@@ -1,0 +1,17 @@
+# Base de datos local
+db.sqlite3
+*.sqlite3
+
+# Archivos privados
+.env
+.env.*
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Archivos generados
+staticfiles/
+media/
